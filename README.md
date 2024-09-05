@@ -4,7 +4,11 @@ A running log of things I'm learning to build strong core software engineering s
 
 ## Core Skills
 
-C++
+### C++ Programming
+|Resource|Progress|
+|---|---|
+|[Udemy: Learn Advanced C++ Programming](https://www.udemy.com/course/learn-advanced-c-programming/learn/lecture/3688052#overview)|**In Progress**|
+|[Book: C++ Primer](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)|**In Progress**|
 
 ### Python Programming
 
