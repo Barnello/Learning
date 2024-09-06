@@ -17,7 +17,6 @@ A running log of things I'm learning to build strong core software engineering s
 |[Youtube: Tutorial: Sebastian Witowski - Modern Python Developer's Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ&feature=youtu.be)||
 |[Book: Python 201](https://leanpub.com/python201)||
 |[Book: Writing Idiomatic Python 3](https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG)||
-|[Book: Test Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)||
 
 ### Data Structures and Algorithms
 
